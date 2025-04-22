@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 [![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
 
 - *Languages:* Python, JavaScript, C++
-- *Web Development:* HTML, React, Node.js, Django
+- *Web Development:* HTML, CSS, React, Node.js, Django
 - *Databases:* MySQL, PostgreSQL, MongoDB
 - *Tools & Platforms:* Git, AWS, Heroku
 - *Data Science:* Pandas, NumPy, Pytorch, Scikit-learn, Matplotlib
