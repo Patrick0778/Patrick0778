@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 - 🔭 I’m currently working on improving my skills in full-stack web development.
 - 🌱 I’m currently learning more about machine learning and artificial intelligence.
 - 💬 Ask me about web development, Python, or anything tech-related!
-- 📫 How to reach me: [Email](mailto:patricknatukuma@gmail.com)
+- 📫 How to reach me: [mailto:patricknatukuma@gmail.com]
 - ⚡ Fun fact: I'm a national waterpolo champion in uganda
 
 ## My Skills
@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
 
-- [Email](mailto:patricknatukuma@gmail.com)
+- [mailto:patricknatukuma@gmail.com]
 
 Thanks for visiting my profile! Have a great day! 😊
