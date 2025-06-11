@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Patrick0778&color=brightgreen&base=1000)
 
-Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere University. I'm a passionate developer who loves to explore new technologies and work on interesting projects. Here you'll find some of the projects I've been working on.
+Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere University. I'm a developer who loves to explore new technologies and work on interesting projects. Here are some of the projects I've been working on.
 
 ## About Me
 
-- 🔭 I’m currently working on improving my skills in full-stack web development.
+- 🔭 I’m currently working on improving my skills in backend web development.
 - 🌱 I’m currently learning more about machine learning and artificial intelligence.
 - 💬 Ask me about web development, Python, or anything tech-related!
 - 📫 How to reach me: [patricknatukuma@gmail.com]
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 [![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
 
 - *Languages:* Python, JavaScript, C++
-- *Web Development:* HTML, CSS, React, Node.js, Django
+- *Web Development:* CSS, React, Node.js, Django
 - *Databases:* MySQL, PostgreSQL, MongoDB
-- *Tools & Platforms:* Git, AWS, Heroku
+- *Tools & Platforms:* Git, AWS
 - *Data Science:* Pandas, NumPy, Pytorch, Scikit-learn, Matplotlib
 
 ## Get In Touch
