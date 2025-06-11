@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 ## My Skills
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,cpp,aws,nextjs,heroku)](https://skillicons.dev)
 
 - *Languages:* Python, JavaScript, C++
 - *Web Development:* CSS, React, Node.js, Django
