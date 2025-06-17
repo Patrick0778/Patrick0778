@@ -1,6 +1,6 @@
 # Hi there, I'm Patrick Natukuma! 👋
 
-![](https://komarev.com/ghpvc/?username=Patrick0778&color=brightgreen&base=1000)
+![](https://komarev.com/ghpvc/?username=Patrick0778&color=brightgreen&base=300)
 
 Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere University. I'm a developer who loves to explore new technologies and work on interesting projects. Here are some of the projects I've been working on.
 
