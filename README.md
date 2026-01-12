@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,solidity,react,cpp,aws,nextjs,heroku&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,solidity,react,cpp,aws,nextjs,heroku&perline=5" />
   </a>
 </p>
 
